@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.43.1">
+  <way id="97542708" version="3" timestamp="2011-11-06T08:41:04Z" uid="395588" user="Danidin9" changeset="9753156">
+    <nd ref="1129338895"/>
+    <nd ref="1129339051"/>
+    <nd ref="1129339169"/>
+    <nd ref="1129339116"/>
+    <nd ref="1129338895"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:city" v="Санкт-Петербург"/>
+    <tag k="addr:letter" v="Д"/>
+    <tag k="addr:street" v="участок ж/д &quot;Скобелевский пр.-Поклонногорская ул.&quot;"/>
+    <tag k="source:addr" v="rgis"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:postcode" v="18830"/>
+    <tag k="building:levels" v="2"/>
+  </way>
+</osm>
