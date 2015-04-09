@@ -1,0 +1,19 @@
+OpenStreetMap wiki: 
+http://wiki.openstreetmap.org/wiki/Main_Page
+http://wiki.openstreetmap.org/wiki/OSM_XML
+
+https://mapzen.com/metro-extracts/
+
+For this project I chose to analyze St Petersburg, Russia area,
+where I was born:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/saint-petersburg_russia.osm.bz2 
+
+
+I mostly used MongoDB reference at this link:
+http://docs.mongodb.org/manual/reference/
+
+In sample.py I made a change to write every 100th element, not every 10th
+because original code still produced large file (74 MB)
+
+The Python scripts in P2.6 folder were used to solve Lesson 6 exercises;
+scripts in root folder were used to complete the project on St Petersburg dataset
